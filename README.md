@@ -1,8 +1,9 @@
 # thumbtack-analysis
 
 Quick data analysis and visualizations on sample, dummy data from Thumbtack - an online service that matches customers with local professionals on its online platform.
-Report
-Code
+[PDF Report](https://github.com/leyldy/thumbtack-analysis/blob/master/Report_PDF.pdf)
+[HTML Report, best to download and view in browser](https://github.com/leyldy/thumbtack-analysis/blob/master/Report_HTML.html)
+[Rmd Code](https://github.com/leyldy/thumbtack-analysis/blob/master/Report_code.Rmd)
 
 ## Data
 *visitors.csv* - Thumbtack visitors who started request forms in either house cleaning or local moving categories. 
